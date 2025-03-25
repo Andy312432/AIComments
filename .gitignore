@@ -1,0 +1,9 @@
+.vscode
+.venv
+best_model
+*.xlsx
+*.csv
+*.json
+*.log
+*.pkl
+ __pycache__
